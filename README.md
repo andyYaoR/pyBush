@@ -1,5 +1,5 @@
 # pyBush
-A python implementation of the Bush Traffic Assignment with route-flow variables.
+A python implementation of the Bush Traffic Assignment, with route-flow variables (Dial, 2006).
 
 Insipration from the C implementation, [TAP-B](https://github.com/spartalab/tap-b).
 
